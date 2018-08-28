@@ -19,7 +19,7 @@ server:
 spring:
   profile: test
   application:
-    name: microservicecloud-config-client
+    name: microservicecloud-config-client-test
 
 eureka:
   client: #客户端注册进eureka服务列表内
